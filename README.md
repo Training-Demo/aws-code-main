@@ -1,4 +1,3 @@
-# aws-code-main
 # aws-code
 # For Linux use:
 
