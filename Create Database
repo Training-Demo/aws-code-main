@@ -1,0 +1,1 @@
+CREATE TABLE employee (empid VARCHAR (20), first_name VARCHAR (20), last_name VARCHAR (20), primary_skills VARCHAR (20), location VARCHAR (20));
