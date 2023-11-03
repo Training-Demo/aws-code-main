@@ -5,7 +5,8 @@ import boto3
 from config import *
 
 app = Flask(__name__)
-
+#dbghost3
+#DBHOST
 # DBHOST = os.environ.get("DBHOST")
 # DBPORT = os.environ.get("DBPORT")
 # DBPORT = int(DBPORT)
